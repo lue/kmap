@@ -44,6 +44,6 @@ require(["main"], function(KMap){
   };
 
   // fetch some graph data
-  $.getJSON("../data/metacademy_demo.json", handleDataFun);
+  $.getJSON("../data/9ppl_demo.json", handleDataFun);
 
 });
